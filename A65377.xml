@@ -1,0 +1,646 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A weeks work: shewing the whole duty of a Chritian Laying down in seven particular heads for the practise of the seven days of the week, what prayer is, how to use it profitably, wherein is shewed the true nature, power, and effects of vocal and mental prayer; with advice and instructions (for such as be ignorant in prayer and spiritual duty) how to attain to a true spiritual, effectual, and proficient way of praying. Very useful and requisite to be read in societies and families. To which is added seven copper-plates, suitable to each days exercise.</title>
+            <author>G. V.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1668</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 72 KB of XML-encoded text transcribed from 54 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A65377</idno>
+            <idno type="STC">Wing W1250AB</idno>
+            <idno type="STC">ESTC R220908</idno>
+            <idno type="EEBO-CITATION">99832292</idno>
+            <idno type="PROQUEST">99832292</idno>
+            <idno type="VID">36764</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A65377)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 36764)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2102:28)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A weeks work: shewing the whole duty of a Chritian Laying down in seven particular heads for the practise of the seven days of the week, what prayer is, how to use it profitably, wherein is shewed the true nature, power, and effects of vocal and mental prayer; with advice and instructions (for such as be ignorant in prayer and spiritual duty) how to attain to a true spiritual, effectual, and proficient way of praying. Very useful and requisite to be read in societies and families. To which is added seven copper-plates, suitable to each days exercise.</title>
+                  <author>G. V.</author>
+               </titleStmt>
+               <extent>[8], 94, [2] p. : ill.  </extent>
+               <publicationStmt>
+                  <publisher>printed by E. O. for William Crooke without Temple-bar, near Essex-house,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1668.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"To the reader" signed: G.V.</note>
+                  <note>With a preliminary imprimatur dated: Aug. 20. 1667.</note>
+                  <note>Contents leaf on G7 (pp. 93-94) and final advertisement leaf, G8.</note>
+                  <note>Each day's exercise is introduced by a captioned engraving pasted onto the verso of a paginated leaf.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Prayers --  Early works to 1800.</term>
+               <term>Spiritual exercises --  Early works to 1800.</term>
+               <term>Christian life --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-09</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-03</date>
+            <label>Geremy Carnes</label>Sampled and proofread</change>
+         <change>
+            <date>2013-03</date>
+            <label>Geremy Carnes</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="imprimatur">
+            <pb facs="tcp:36764:1" rendition="simple:additions"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:36764:2" rendition="simple:additions"/>
+            <pb facs="tcp:36764:2" rendition="simple:additions"/>
+            <pb facs="tcp:36764:3" rendition="simple:additions"/>
+            <pb facs="tcp:36764:3" rendition="simple:additions"/>
+            <pb facs="tcp:36764:4"/>
+            <p>IMPRIMATUR.</p>
+            <closer>
+               <dateline>
+                  <hi>Ex Aedibus</hi> Lambethanis <date>
+                     <hi>Aug.</hi> 20. 1667.</date>
+               </dateline>
+               <signed>Tho. Tomkins <hi>R Rmo. in Chriſto Patri ac Domino</hi> Gilberto <hi>divina Provi<g ref="char:EOLhyphen"/>dentia Archi-Epipcopo</hi> Cantuarienſi <hi>a ſacris do<g ref="char:EOLhyphen"/>mestices.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:36764:4" rendition="simple:additions"/>
+            <p>A Weeks Work: Shewing the WHOLE DUTY OF A CHRISTIAN.</p>
+            <p>Laying down in ſeven particular heads for the practiſe of the ſeven Days of the Week, what Prayer is, how to uſe it profita<g ref="char:EOLhyphen"/>bly, wherein is ſhewed the true Nature, Power, and Effects of Vocal and Mental Prayer; with advice and Inſtructions (for ſuch as be ignorant in prayer and ſpiritual duty) how to attain to a true ſpiritual, effectual, and proficient way of praying.</p>
+            <p>Very uſeful and requiſite to be read in <hi>Societies</hi> and <hi>Families.</hi>
+            </p>
+            <p>To which is added ſeven Copper-plates, ſuitable to each days Exerciſe.</p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>E. O.</hi> for <hi>William Crooke</hi> without <hi>Temple-bar,</hi> near <hi>Eſſex-houſe,</hi> 1668.</p>
+            <pb facs="tcp:36764:5"/>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:36764:5"/>
+            <head>TO THE READER.</head>
+            <p>
+               <seg rend="decorInit">A</seg>Fter I had finiſhed theſe Exerciſes, which I deſign<g ref="char:EOLhyphen"/>ed at firſt for a private uſe only; but upon ſerious reflections of the great importance, ſome conſiderations on this ſo need<g ref="char:EOLhyphen"/>ful a ſubject might be; I have here adventured to preſent to the publick theſe private Meditations, hoping that thou mayſt find as much com<g ref="char:EOLhyphen"/>fort in the reading, as I have done
+<pb facs="tcp:36764:6"/> in the writing hereof: I ſeek not any honour or profit hereby, nor do I deſire you to<note n="*" place="margin">Job 6. 22.</note> 
+               <hi>Give a reward for me of your ſubſtance</hi> for theſe my Labors, but only and earneſtly deſire theſe Inſtructions may come home to thy heart, and all that I ſhall expect is from the Wiſe-man's mouth,<note n="*" place="margin">Prov. 11. 18.</note> 
+               <hi>To him that ſoweth righteouſneſs ſhall be a ſure re<g ref="char:EOLhyphen"/>ward:</hi> I deſire thou wouldſt bring with thee a heart void of prejudice, towards thoſe Holy Duties that are to be performed, that with a ſincere and humble Elevation of the mind; you may ſay with the Holy Prophet,<note n="*" place="margin">Pſal. 109. 5.</note> 
+               <hi>I give my ſelf unto prayer.</hi> It might poſſibly be expected here ſhould have been Forms ef Prayers for proper occaſions, but I thought it not ſo needful to concern my ſelf in a Task, that hath been ſo often and
+<pb facs="tcp:36764:6"/> ſo well performed by able and Religi<g ref="char:EOLhyphen"/>ous men, for all occaſions both pub<g ref="char:EOLhyphen"/>lick and private, ſo that I do not find there needed any more aſſiſtance by that want of prayers, but (which was to much wanting) to quicken the coldneſs and dullneſs of prayer. I have here indeavoured to ſet down ſome motives to draw you to the more fervent uſe of it: That ſo it may be more effectual and proficient to the ſaving of your ſouls, and that your prayers may not be an offence to God as <hi>Judah</hi>'s once was:<note n="*" place="margin">Iſa. 1. 15.</note> 
+               <hi>When ye ſpread forth your hands, I will hide mine Eyes from you; Yea, when you make many prayers, I will not hear.</hi> But rather that we may ſo pray that we may hear the Holy Spirit ſounding in our hearts from the mouth of the ſame Prophet, ſaying,<note n="*" place="margin">Iſa. 38. 5.</note> 
+               <hi>Thus ſaith the
+<pb facs="tcp:36764:7"/> Lord,</hi> &amp;c. <hi>I have heard thy pray<g ref="char:EOLhyphen"/>ers, and I have ſeen thy tears,</hi> &amp;c.</p>
+            <closer>
+               <dateline>
+                  <date>Octob. 26. 1667.</date>
+               </dateline>
+               <signed>G. V.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div n="1" type="chapter">
+            <pb n="1" facs="tcp:36764:7"/>
+            <head>SUNDAYS Exerciſe.</head>
+            <head>
+               <figure>
+                  <figDesc>Cain slaying Abel, offerings burning in background</figDesc>
+                  <head>Cain Murthers Abel. Gen: 4.</head>
+                  <q>And Cain brought of the fruit of the ground. <bibl>v. 3</bibl>
+                  </q>
+                  <q>And Abel brought of y<hi rend="sup">e</hi> firſtlings of his flock etc: And the Lord had reſpect unto Abel. etc. <bibl>vers 4.</bibl>
+                  </q>
+                  <q>but unto Cain <hi>&amp;c.</hi> he had not reſpect. etc. <bibl>vers 5.</bibl>
+                  </q>
+                  <q>And Cain roſe up againſt Abel his brother &amp; ſlew him: <bibl>vers. 8.</bibl>
+                  </q>
+               </figure>
+            </head>
+            <pb n="2" facs="tcp:36764:8"/>
+            <head>CHAP. I. <hi>Of Prayer.</hi>
+            </head>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Sect. </seg>1</label> 
+               <seg rend="decorInit">M</seg>Any that are given to Prayer, gain little profit thereby, becauſe they do not know, nor conſider what Prayer is; for had they known it, they would be more<note place="margin">Prayer not well known.</note> attentive in it, and uſe it as they ought: And ſo we ſhould have more Saints then there are, and Heaven more Souls.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Sect. </seg>2</label> You muſt therefore under<g ref="char:EOLhyphen"/>ſtand, that Prayer generally taken is an Elevation or Application<note place="margin">What prayer is.</note> to God; ſo, that if a man pro<g ref="char:EOLhyphen"/>nounce many good words with
+<pb n="3" facs="tcp:36764:8"/> his Mouth, and ſeem to Pray, not having this Elevation, it is no Prayer, by reaſon the Mind is not elevated or applied to God. As for example, ſuppoſe a Child, required by his Parents to read very Godly prayers in ſome de<g ref="char:EOLhyphen"/>vout and pious Book, either to paſs away the time, or know whe<g ref="char:EOLhyphen"/>ther he can read, or no, he can<g ref="char:EOLhyphen"/>not, in ſo doing, be ſaid to Pray, though he reads the moſt devout Prayer that can be: Why ſo? becauſe he intended not to Pray, and the principal thing (which is the application to God) is wanting: Therefore our Saviour ſpeaking to the Phariſees, ye Hy<g ref="char:EOLhyphen"/>pocrites, did not <hi>Iſaiah</hi> propheſie well of you, ſaying, <hi>This people doth praiſe me with their Lips, but their Heart is far from me.</hi> This
+<pb n="4" facs="tcp:36764:9"/> he ſaid in the behalf of God; by which you may obſerve, our Sa<g ref="char:EOLhyphen"/>viour doth term him an Hypo<g ref="char:EOLhyphen"/>crite and Diſſembler, who maketh ſhew of that which is not, moving his Lips as in Prayer, but not applying his Heart to God.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Sect. </seg>3</label> But alaſs! how many Phariſees<note place="margin">Of Hy<g ref="char:EOLhyphen"/>pocrites.</note> and Hypocrites may be found this day, even among the beſt of Chriſtians, that make ſhew of praying and ſerving God, their Hearts being far from him: We have the Lord's prayer appointed<note place="margin">The Lord's prayer.</note> by our Saviour to be ſaid, as the moſt excellent of all Prayer; we have our Common-prayer, or<note place="margin">The Common prayer.</note> Liturgy, compoſed by moſt pious and prudent Chriſtians, eſta<g ref="char:EOLhyphen"/>bliſh'd by the Law of the Land, duely uſed in our Churches; we have many Godly books with<note place="margin">Godly books:</note>
+               <pb n="5" facs="tcp:36764:9"/> devout Prayers, all for the uſe and benefit of Chriſtians, and though vocally ſaid, yet they are of great power in the ſight of<note place="margin">Good uſe of them all.</note> God, being well and attentively uſed, according to a ſincere and devout Application. Yet I am ſorry, there be many, ſo worldly and negligent, that pray no way,<note place="margin">Neglect of prayer.</note> though in Chriſtian duty obliged to pray; nay, there be ſome that ſcarce call to mind whether there be a God, or no, which the <hi>Turks</hi> do not forget: So that at their going to Bed, or riſing up, before meat, or after, they give no Thanks, but<note place="margin">Not give thanks.</note> couch, and feed, as the brute Beaſts do, or, as if they were not obliged (being reaſonable Crea<g ref="char:EOLhyphen"/>tures) to praiſe and give God thanks for their Beeing, Life, Health, Food, Conſervation night
+<pb n="6" facs="tcp:36764:10"/> and day, from ſudden Death, and other Dangers, which as others they are ſubject to; and if by chance they go to Church to hear Divine Service, they being there<g ref="char:EOLhyphen"/>unto bound by Law, they mind more to gaze here and there, on this or that Body's Attire, or new<note place="margin">Faſhi<g ref="char:EOLhyphen"/>onable Chriſti<g ref="char:EOLhyphen"/>ans.</note> Faſhion, or give their minds to wander on idle things, more than what they ought to do in that place: And when they do begin their Devotion, they know not what, or how they ſay it, they are<note place="margin">Unat<g ref="char:EOLhyphen"/>tentive.</note> ſo much Deſtracted; their minds it may be in the Market, Tavern, or ſome worſe place; and if Prayers be but ſhort, yet they ſeem ſo long to them, that they are wearied, and think they will never end. And often they do not attend to the end, but haſten
+<pb n="7" facs="tcp:36764:10"/> their Body to the place where their Mind was all Prayer time.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Sect. </seg>4</label> Truly, the light of Faith is very much darkned in theſe luke<g ref="char:EOLhyphen"/>warm<note place="margin">The light of Faith darkned.</note> Chriſtians; are not they in a poor caſe? What can they ex<g ref="char:EOLhyphen"/>pect or hope for at the hour of Death, from God, whom in their Life they did ſo little reſpect and regard? For though his Divine Majeſty be mercifull, yet He is alſo Juſt, and when his Mercy is<note place="margin">God juſt.</note> not excepted, but abuſed, his Juſtice will in due time inflict condigne puniſhment; God's mercy is great, who endureth with patience ſo many Years ſuch wrongs, and abuſes, (as their grievous ſins, and doth not caſt them ſuddenly into Hell-fire, as He did the Angels of Heaven for one ſin) graciouſly expecting
+<pb n="8" facs="tcp:36764:11"/> their Converſion, and Repen<g ref="char:EOLhyphen"/>tance, which they think not off, putting all of untill they grow Old, or fall Sick, with a time e<g ref="char:EOLhyphen"/>nough to Repent, as if time and repentance were in their power,<note place="margin">Death<g ref="char:EOLhyphen"/>bed re<g ref="char:EOLhyphen"/>pentance.</note> and at their diſpoſal: But what if they be ſhort taken, and the thread of their Life cut off by a ſudden Death, (which doth daily happen to many) What will be<g ref="char:EOLhyphen"/>come of them? which they ought to conſider. Others for a mo<g ref="char:EOLhyphen"/>ment, wherein they might have made uſe of God's mercy when they lived, (and did not) and gained the Joy of Heaven by Re<g ref="char:EOLhyphen"/>pentance, which they neglected, they muſt now endure (without Remiſſion) the rigour of God's Juſtice, and ſuffer the Torments of Hell-fire, for all Eternity! O
+<pb n="9" facs="tcp:36764:11"/> dear Chriſtian, beware of this, and repent whilſt thou haſt time, not knowing but this very hour is<note place="margin">Uſe pre<g ref="char:EOLhyphen"/>ſent re<g ref="char:EOLhyphen"/>pentance.</note> the laſt of thy Life.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Sect. </seg>5</label> There be others, whoſe Devo<g ref="char:EOLhyphen"/>tion is but ſmall, and ſometimes they have a confuſed memory of<note place="margin">Confu<g ref="char:EOLhyphen"/>ſion in devotion.</note> their Obligation to ſerve God; and thence they fear his puniſh<g ref="char:EOLhyphen"/>ments: VVhich maketh them ſometime go to Prayer, and to thoſe things to which they are bound; their Prayers are not many, and in haſte, thinking that to ſay them is enough, and that they have done well, and a great matter too: But ſurely they alſo<note place="margin">Miſtakes in Chri<g ref="char:EOLhyphen"/>stians.</note> are miſtaken, for what honour have they done to God therein, or what great profit to themſelves, that conſidered not for what, nor to whom they Prayed, whereas
+<pb n="10" facs="tcp:36764:12"/> they mind not God all the time of Prayer, but ſtill mind when they ſhould end, to be gone away, which is a groſs abuſe of Prayer.<note place="margin">Danger.</note> There are many of this ſort, whoſe caſe is dangerous enough, and they are to be pitied, inſtructed, and admoniſhed by their Mini<g ref="char:EOLhyphen"/>ſters.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Sect. </seg>6</label> Another ſort of people I find, that have a cuſtom to go every<note place="margin">Every day to Church.</note> Day to Church to Prayer, which is very laudable; but if they ſhould truly examine themſelves, when all is done, perhaps they would find, that they were think<g ref="char:EOLhyphen"/>ing of their worldly affairs, moſt of the time, and did ſcarce reflect upon ſuch Prayers as was ſaid, being ſmoothly carried away with<note place="margin">Man deceiv'd.</note> ſome thoughts which the Devil ſuggeſted according to their in<g ref="char:EOLhyphen"/>clination,
+<pb n="11" facs="tcp:36764:12"/> or natural diſpoſition, wherein they take ſuch content, that they eaſily forget what in Prayer they are ſaying: For he can fit every man's humour, yet by reaſon, their firſt Intention was good, they are the more ex<g ref="char:EOLhyphen"/>cuſable, becauſe their Deſtruction<note place="margin">Not in<g ref="char:EOLhyphen"/>tentional Impie<g ref="char:EOLhyphen"/>ties.</note> was not Intentional; yet they cannot be excuſed for their neg<g ref="char:EOLhyphen"/>ligence, and diſ-reſpect to God, who is preſent, and to whom they ought in Prayer to direct their Speech, with great Humility and Reverence.</p>
+            <p>Others there are, that have the<note place="margin">Stint of prayer.</note> good cuſtom of impoſing upon themſelves the Stint, keeping off ſet times to Prayer, and when they have performed their task, they think they have done much; but while they are at Prayer, their
+<pb n="12" facs="tcp:36764:13"/> mind runs more when they ſhall end their task, than how to pleaſe or praiſe God: Though this be a great abuſe of Prayer, yet it is of more importance than the other; for they have an intention to go<note place="margin">Intent of prayer.</note> to Prayer, to ſerve God, and to ſpend time to perform that task which they have obliged them<g ref="char:EOLhyphen"/>ſelves to, though afterwards they are carried away with vain thoughts. Another good it hath, that they are never quiet untill they have performed their Stint of Devotions, which makes them mindfull of God, when they are about buſineſs.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Sect. </seg>7</label> But what ſhall I ſay, of Men, that ſeem to be of underſtanding, and know much, and can diſ<g ref="char:EOLhyphen"/>courſe of our Obligation to God, when they are among thoſe that
+<pb n="13" facs="tcp:36764:13"/> ſpeak of that matter, yet are as careleſs of their duty to God as<note place="margin">Wilfull careleſ<g ref="char:EOLhyphen"/>neſs.</note> others, and perhaps more; they ſeldome Pray at home, and when they frequent the Churches, they ſtand and gaze, they come to ſee and be ſeen, and often for com<g ref="char:EOLhyphen"/>pany ſake rather than to Pray; as to attend this Nobleman, or<note place="margin">Too much uſed a cuſtom.</note> that Lady, whom they led by the hand, more than for the love of God; and many times to meet this or that Friend, with whom they have ſome buſineſs, on which their mind is more buſied than on their Prayers: But thoſe young Gallants and Damſels are worſt of all, that prate, and laugh even<note place="margin">Deriſion.</note> in Prayer time, taking notice of their Neighbour's attire, and fa<g ref="char:EOLhyphen"/>ſhion of the Miniſter's behaviour and Doctrine, &amp;c. They go to
+<pb n="14" facs="tcp:36764:14"/> Church, as if it were but a bare ceremony to ſerve God, not minding that holy Action as they ought; and they, whoſe Sex re<g ref="char:EOLhyphen"/>quires moſt modeſty in the Church, where it ought to be moſt, do ſhew but Levity and Vanity, mixt with a ſmall deal of Devo<g ref="char:EOLhyphen"/>tion, yet there are many pious. In ſhort, though theſe Gallants ſeem to be of ſome capacity more than others, yet they ſo forget themſelves, and their duty to<note place="margin">God for<g ref="char:EOLhyphen"/>got.</note> God, that they may be without offence compared to the <hi>Jews,</hi> who, kneeling before our Saviour, adored him in ſcorn, and laugh<g ref="char:EOLhyphen"/>ter, looking on each other; in like manner theſe Pray careleſsly, (which is, to undervalue our Sa<g ref="char:EOLhyphen"/>viour)<note place="margin">Chriſt under<g ref="char:EOLhyphen"/>valued.</note> ſpeedily turning faces about, prate, and ſmile at each
+<pb n="15" facs="tcp:36764:14"/> other, (this conſidered) is it not a foul abuſe, a great irreve<g ref="char:EOLhyphen"/>rence, and diſ-reſpect, to that great God of Glory, their Creator and Redeemer.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Sect. </seg>8</label> There is many, that alſo fre<g ref="char:EOLhyphen"/>quent<note place="margin">Fre<g ref="char:EOLhyphen"/>quenting the Sa<g ref="char:EOLhyphen"/>crament.</note> the Sacraments, that they may not be noted for cold Chri<g ref="char:EOLhyphen"/>ſtians, nor indevout; and many times when they ſee others of their quality, communicating without due preparations, and examination of themſelves, will receive the Sacrament for com<g ref="char:EOLhyphen"/>pany ſake, this is a great abuſe:<note place="margin">A great abuſe.</note> There are divers other abuſes in this kind, which I ſhall now omit, leaſt I be too tedious, but re<g ref="char:EOLhyphen"/>turning to what I ſaid in the be<g ref="char:EOLhyphen"/>ginning, that whether the Prayer be vocal, or mental, without the application to God, it is of little or no profit at all.</p>
+            <pb n="16" facs="tcp:36764:15"/>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Sect. </seg>9</label> For, who going to treat with a Gentleman of faſhion, about ſome weighty matter, by which he in<g ref="char:EOLhyphen"/>tends to benefit himſelf, would not court him the beſt he could, or at leaſt give him that reſpect as well in Converſation, as Salutation, which to him is due according to his quality; much more to a King, when a Petition is preſented to him: For it is known in all Kingdoms, with what low ſub<g ref="char:EOLhyphen"/>miſſion and reſpect, and with how many bowings he is firſt ſaluted, before the Petition be delivered, and then how obſervant the Peti<g ref="char:EOLhyphen"/>tioner is, of the King's geſture whilſt he reads it; how carefully doth he fix his eyes, to ſee when he will look at him, and how at<g ref="char:EOLhyphen"/>tentively and patiently doth he expect his anſwer. Be you now
+<pb n="17" facs="tcp:36764:15"/> Judge, dear Chriſtians, whether wrong be not done to the King of Kings, and Lord of all things, when by thoſe that go to ſpeak and petition to him, He is not ſo much regarded as a temporal King, or worldly Man of mean degree; for they ſcarce begin to pray, when moſt irreverently they turn (as we may ſay) their back-<gap reason="illegible" resp="#MURP" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>es to his Divine Majeſty, who is there attending to give audience to their requeſt, their mind buſily ſpeaking with the World, and he left as a Cypher, quite forgotten: Oh, foul abuſe! Oh, great irreverence! Oh, un<g ref="char:EOLhyphen"/>ſpeakable ingratitude!</p>
+            <div type="prayer">
+               <pb n="18" facs="tcp:36764:16"/>
+               <head>A Prayer.</head>
+               <p>MY God, how canſt thou indure it? My deareſt Lord, how doſt thou bear with ſuch rude and ungrateful people? Verily thou art the God of patience and goodneſs, the meaneſt Man of any faſhion would not take the like affront at any others hands, though ſomewhat beyond his degree. O true Lover of our Souls, what can they expect by ſuch Prayers, or rather by ſuch Mockeries? for though thou art moſt merciful and gracious, and very willing to receive our Peti<g ref="char:EOLhyphen"/>tions, and grant what we deſire, if we come to thee with that humble reverence, and true confidence which is fitting, and all ought to have in thee; or with that reſpect and at<g ref="char:EOLhyphen"/>tention
+<pb n="19" facs="tcp:36764:16"/> which they afford even to thy Creatures, when thy great good<g ref="char:EOLhyphen"/>neſs and mercy is not regarded, (but they diſ-eſteem it, and turn their hearts and minds from thee) and when the Day of reckoning comes, Doubtleſs thou wilt turn thy bleſſed face from them, and they may hear to their coſt, Depart from me ye curſed into Hell for ever, which is an Ex<g ref="char:EOLhyphen"/>cluſion from the Joys of Heaven, and the ſight of God's Glory Eter<g ref="char:EOLhyphen"/>nally.</p>
+               <p>I beſeech thee therefore, my moſt gracious Lord, that thou wilt pre<g ref="char:EOLhyphen"/>vent this my ſo great Evil, and grant us moſt frail Sinners, thy holy grace in this Life, to forſake this great irreverence, and conti<g ref="char:EOLhyphen"/>nual abuſe of thy Divine Majeſty in time of our Prayer, which, through negligence and inconſide<g ref="char:EOLhyphen"/>ration,
+<pb n="20" facs="tcp:36764:17"/> we commonly fall into, that thy ſweet face may not be turned from us at the hour of Death, nor we be forſaken by thee for all Eter<g ref="char:EOLhyphen"/>nity.</p>
+               <closer>Amen.</closer>
+            </div>
+         </div>
+         <div n="2" type="chapter">
+            <pb n="21" facs="tcp:36764:17"/>
+            <head>MUNDAYS Exerciſe.</head>
+            <head>
+               <figure>
+                  <figDesc>animals entering Ark</figDesc>
+                  <head>Noah entreth the Ark Gen. VII.</head>
+                  <q>And the Lord ſaid unto Noah came thou and all thy houſe into the Ark. etc. <bibl>v. 1.</bibl>
+                  </q>
+                  <q>Of every cleane beaſt take by ſevens etc. <bibl>v. 2.</bibl>
+                  </q>
+                  <q>Of beaſts that are not cleane and of fowles and of every thing that cre<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>peth. etc. <bibl>v. 8</bibl>
+                  </q>
+                  <q>there went in two and two. etc. <bibl>v. 9</bibl>
+                  </q>
+               </figure>
+            </head>
+            <pb n="22" facs="tcp:36764:18"/>
+            <head>CHAP. II. <hi>Of profitable Praying.</hi>
+            </head>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Sect. </seg>1</label> 
+               <seg rend="decorInit">F</seg>Irſt, dear Soul, know that in your Converſation with God, neither Rhe<g ref="char:EOLhyphen"/>torical<note place="margin">Heaven<g ref="char:EOLhyphen"/>ly con<g ref="char:EOLhyphen"/>verſati<g ref="char:EOLhyphen"/>on.</note> Eloquence, ſub<g ref="char:EOLhyphen"/>tilty of Wit, nor great Learning is requiſite, but a plain, humble, and ſimple Declaration of what you intend; for his Divine Ma<g ref="char:EOLhyphen"/>jeſty underſtands our intentions, therefore it will be fitting, when<g ref="char:EOLhyphen"/>ſoever we go to Prayer, to have a certain intention, and to propoſe to thy ſelf ſome end, for which you intend then to Pray, that your Prayer may not be in vain. As
+<pb n="23" facs="tcp:36764:18"/> for example, I will go to Prayer,<note place="margin">Exam<g ref="char:EOLhyphen"/>ple.</note> to give God thanks for his bene<g ref="char:EOLhyphen"/>fits beſtowed on me, as for my Creation, Redemption, and ſuch like; and in token of gratitude, I will ſay ſuch Prayers, or ſpend ſo long time at my Devotions, and confeſs with unfeigned un<g ref="char:EOLhyphen"/>thankfulneſs, for the love which our Saviour did bear towards me, coming from Heaven to Earth, to ſuffer what he did, in his Life and Death, to ſatisfie his Heavenly Father, for the ſins of ſuch a vile wretch as I am, and then purpoſe through his Grace, to ſerve and love him ever after, with more fidelity and ſincerity than formerly, and crave his holy aſſiſtance and grace to that end alſo, at other times to obtain true ſorrow, repentance, and for<g ref="char:EOLhyphen"/>giveneſs
+<pb n="24" facs="tcp:36764:19"/> of your Sins, likewiſe amendment of your Life, or the over-coming of ſome vice or paſſion, to which you are moſt in<g ref="char:EOLhyphen"/>clined, or to gain ſome virtue, as patience, humility, love of your Neighbour, chaſtity, &amp;c. More<g ref="char:EOLhyphen"/>over, you may imploy your Prayers for the converſion of Sin<g ref="char:EOLhyphen"/>ners, or any other thing that is commended to your Prayers, or you intend to obtain of his Di<g ref="char:EOLhyphen"/>vine Majeſty; for, ſurely it is much ſimplicity and ignorance in any, to go to Prayer, and ſpeak with this ſo great a King, and gracious a Lord, and not know what about, nor conſidering to what end.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Sect. </seg>2</label> Therefore, going to Prayer, (which it is as I ſaid, to ſpeak to that great King and Lord of Hea<g ref="char:EOLhyphen"/>ven
+<pb n="25" facs="tcp:36764:19"/> and Earth) remember al<g ref="char:EOLhyphen"/>ways<note place="margin">Order of going to prayer.</note> to do, and direct it, for one of the former ends, or the like; which done, in the place of Pray<g ref="char:EOLhyphen"/>er, ſuppoſe in your Mind that God is there preſent, gloriouſly (as truly he is) accompanied and attended with many Quires of Angels, that are always prai<g ref="char:EOLhyphen"/>ſing him with unſpeakable reve<g ref="char:EOLhyphen"/>rence and love: That he is there to give you Audience, and know<note place="margin">The pre<g ref="char:EOLhyphen"/>ſence of God.</note> your intent and requeſt; after this great ſubmiſſion and humi<g ref="char:EOLhyphen"/>lity, addreſs your Petition to his Divine Majeſty, by devout Pray<g ref="char:EOLhyphen"/>ers, inwardly remembring that you are ſpeaking to him, always indeavouring to have your mind well applied whenſoever you go to Prayer, and be carefull to re<g ref="char:EOLhyphen"/>flect on what you do, and how
+<pb n="26" facs="tcp:36764:20"/> you Pray; and if you find your mind wandring, and not applied as it ought with humility, try God's mercy, for that irreve<g ref="char:EOLhyphen"/>rence. This manner of proceed<g ref="char:EOLhyphen"/>ing in Prayer, no doubt, but doth pleaſe the Almighty God, and he will not deny what you deſire, or grant you a better thing; for this is the true way to pray with profit, and it will bring you with facility to Mental prayer: For indeed, Vocal prayer ſo uſed is both Vocal and Mental, and cer<g ref="char:EOLhyphen"/>tainly God doth concur parti<g ref="char:EOLhyphen"/>cularly<note place="margin">God's concur<g ref="char:EOLhyphen"/>rence.</note> with thoſe that give them<g ref="char:EOLhyphen"/>ſelves to Prayer, granting them not onely many inward comforts and conſolations, but alſo ſuch an exemplary Life, that they are obſerved, and beloved by moſt people, for the inward Grace
+<pb n="27" facs="tcp:36764:20"/> cannot but manifeſt it ſelf in the outward works, ſo that you may ſee them often viſiting the Chur<g ref="char:EOLhyphen"/>ches, delighting to hear Sermons, and Divine Service, frequenting the Sacraments with much Devo<g ref="char:EOLhyphen"/>tion, ſpending long time in Prayer, with ſo great inward feel<g ref="char:EOLhyphen"/>ing, that often outwardly the<note place="margin">Out<g ref="char:EOLhyphen"/>ward ſence of inward grace.</note> Tears abundantly flow from the inward ſweetneſs: They read good Books to keep in the little fire of Devotion; they are alſo full of compaſſion, works of mercy, and charity, Spiritual and Corporeal; they indeavour as near as they can to keep a clear Conſcience, and are deſirous to ſerve, pleaſe, and praiſe God in all things: And thus they are in<g ref="char:EOLhyphen"/>flamed in Divine love. I could heartily wiſh there were many
+<pb n="28" facs="tcp:36764:21"/> more of this ſort than there are; however, do you your endeavour to be one, for his Grace will never be wanting to a willing mind.</p>
+         </div>
+         <div n="3" type="chapter">
+            <pb n="29" facs="tcp:36764:21"/>
+            <head>TUESDAYS Exerciſe.</head>
+            <head>
+               <figure>
+                  <figDesc>Job with boils speaking to wife, estate burning in background</figDesc>
+                  <head>Satan tempteth Job. Job. 2.</head>
+                  <q>So went Satan forth from the preſence of the LORD and ſmote Job with ſore boils, etc: <bibl>v: 7.</bibl>
+                  </q>
+                  <q>And he ſat down among the aſhes. <bibl>v: 8.</bibl>
+                  </q>
+                  <q>Then ſaid his wife unto him doſt thou ſtill retain thine Integrity? curſe God and die. <bibl>v. 9.</bibl>
+                  </q>
+               </figure>
+            </head>
+            <pb n="30" facs="tcp:36764:22"/>
+            <head>CHAP. III. <hi>Of the dignity and profit of Mental prayer.</hi>
+            </head>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Sect. </seg>1</label> 
+               <seg rend="decorInit">I</seg>N Mental prayer, you walk a perfect way, for you ſpeak to God as<note place="margin">What Mental prayer is.</note> to one near to you, that gives ear to your Petitions, or as one familiar Friend with another, in great privacy or ſe<g ref="char:EOLhyphen"/>creſie: Vocal prayer is uſed often without any particular at<g ref="char:EOLhyphen"/>tention, but Mental prayer re<g ref="char:EOLhyphen"/>quires the attention, and a ſerious application of the Mind inwardly, or it is no Prayer; in this, when the Soul getteth within her ſelf,
+<pb n="31" facs="tcp:36764:22"/> ſhe begins to diſcover the ſtrange works of God, which are in Man unknown, but to thoſe that are by God illuminated; in this, as in a Looking-glaſs, a Man diſ<g ref="char:EOLhyphen"/>covers what he is, and cometh to the true Knowledge of himſelf, for there he ſees how far he is from true Chriſtian perfection.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Sect. </seg>2</label> This knowledge of our ſelves, is the ground and foundation of our Spiritual life; in this a Man<note place="margin">Foun<g ref="char:EOLhyphen"/>dation of ſpiritual life.</note> finds out what Vices and Paſſions do moſt domineer, and moleſt him, and the cauſes why he doth not Live in all things according to the Word of God, and the right rule of Reaſon; and what Remedies to apply to this great Evil. Here all the inward, ſore Diſeaſes, evil cuſtoms, inclina<g ref="char:EOLhyphen"/>tions, and diſordered affections
+<pb n="32" facs="tcp:36764:23"/> are perceived: This is the School where we may be daily taught, and inſtructed, how to cure thoſe Sores, ſuppreſs thoſe Vices, mor<g ref="char:EOLhyphen"/>tifie thoſe Paſſions, regulate thoſe Affections and Inclinations, gain Virtue, and pleaſe our Heavenly Spouſe.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Sect. </seg>3</label> Here we come to know the vanities, unconſtancies, and un<g ref="char:EOLhyphen"/>certainty of the things of this Tranſitory life, with a clearer<note place="margin">World's vanity known.</note> ſight of feeling than ever before, which cauſeth the Soul to loath and contemn the World, hate Vice, love Virtue, and ſeek after God above; and therefore ſhe reſolves to change her Life, and be no more what formerly ſhe was; her Eyes are opened, ſhe is illuminated, and taught, in this Prayer, how all things created,
+<pb n="33" facs="tcp:36764:23"/> can give her no true content, which makes her ſeriouſly deſire, and aſpire to thoſe things that are Eternal.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Sect. </seg>4</label> For ſhe begins to taſte in this<note place="margin">Tasts of Heaven.</note> Prayer, of the content and joy of Mind, which the true Servants of God enjoy in Heaven; now ſhe regards not the wiſdome of this World, but that which doth con<g ref="char:EOLhyphen"/>ſiſt in ſubjection, humility, and ſanctity of Life.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Sect. </seg>5</label> Nay, more then ſo, in this<note place="margin">The De<g ref="char:EOLhyphen"/>vil and Natures deceit diſcove<g ref="char:EOLhyphen"/>red.</note> Prayer, the wiles and deceits of the Devil, and the ſubtle and al<g ref="char:EOLhyphen"/>luring excuſes of Nature are diſ<g ref="char:EOLhyphen"/>covered, which are very hurtfull to a Soul that deſires true per<g ref="char:EOLhyphen"/>fection, which muſt be had by the way of Mortification, which the Devil and Nature do little affect. Here the knowledge and love of
+<pb n="34" facs="tcp:36764:24"/> God, increaſeth to a great heighth of the Soul, which His Divine Majeſty doth often viſit, and re<g ref="char:EOLhyphen"/>pleniſh with ſupernatural Graces, and Comforts; and by ſecret In<g ref="char:EOLhyphen"/>fluences of His Holy Spirit, doth Elevate her far beyond her ſelf, to ſee, know, and feel, with great content and joy, what Tongue cannot expreſs.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Sect. </seg>6</label> To conclude, in this Prayer, we come to a true Viſion of our<note place="margin">A true viſion of our wills.</note> Wills, with the Will of God, which is the higheſt we can at<g ref="char:EOLhyphen"/>tain to in this Life, by our la<g ref="char:EOLhyphen"/>bour, and induſtry, through His holy Grace, without which we can do nothing, though many hath great Favours, Viſions, and Revelations by his ſpecial Gift. Oh what a happy thing this Prayer is! O what a ſweet Invention
+<pb n="35" facs="tcp:36764:24"/> this is of our good God, to bring Souls to his Knowledge, Love and Familiarity, (as is ſaid in the beginning) that thereby, with more facility and ſecurity, they may gain that Glory, for which they are Created: This all ought to love, deſire, and practiſe, that deſires endleſs Felicity and Hap<g ref="char:EOLhyphen"/>pineſs.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Sect. </seg>7</label> Many there be, who think it<note place="margin">Chriſti<g ref="char:EOLhyphen"/>anity not difficult.</note> impoſſible, or at leaſt of great difficulty, to attain to, or gain this bleſſed Prayer; but I do aſſure them, they are very much miſtaken, though true it is, that it cannot be had, without ſome Induſtry and Labour of ours; neither can a Man learn any Art or Science, the firſt Day, be it never ſo eaſie: For experience <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eacheth all, we ſee thouſands of
+<pb n="36" facs="tcp:36764:25"/> all ſorts, and Sexes, given daily (as we ought charitably to be<g ref="char:EOLhyphen"/>lieve) to this Exerciſe, and pra<g ref="char:EOLhyphen"/>ctiſe of Mental prayer, ſo that i<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> you intend to go forward in this Holy Exerciſe, and acquire per<g ref="char:EOLhyphen"/>fection, you muſt not think i<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> difficult, nor be diſmayed, if pre<g ref="char:EOLhyphen"/>ſently you gain it not; for every thing hath a beginning, and no<g ref="char:EOLhyphen"/>thing is had in the World without labour.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Sect. </seg>8</label> You know that a Man is ſeven Years an Apprentice, before h<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> can profeſs himſelf expert in his Trade: The Farmer, or Huſ<g ref="char:EOLhyphen"/>bandman, in the depth of Winter cold, froſt and ſnow, dry or wet taketh great Toyl and Labour and with much patience endu<g ref="char:EOLhyphen"/>reth, and paſſeth all, in expecta<g ref="char:EOLhyphen"/>tion of a little Fruit in Summer
+<pb n="37" facs="tcp:36764:25"/> or Corn in Harveſt, and perhaps get little or none; and ſhall not we Labonr a little to gain this benefit, or Art of Prayer, and reap thereby the Fruit of Virtue, and Life Everlaſting? Our labour is leſs in this then theirs, the fruit and profit more certain than theirs, and of greater value with<g ref="char:EOLhyphen"/>out any compariſon than theirs.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Sect. </seg>9</label> Be not therefore diſ-heartned, but as the Prophet ſaith, come and taſte of it, that is, Practiſe it,<note place="margin">Comfort offered.</note> and you ſhall ſee, and feel how ſweet and pleaſing our Lord is, to thoſe, that through Love do truly ſeek after him: For if you be in Darkneſs, come to him by Prayer, and you ſhall be Illumi<g ref="char:EOLhyphen"/>nated; if Thirſty, there you ſhall drink abundantly of Divine Nectar, ſpringing as pure water
+<pb n="38" facs="tcp:36764:26"/> from the Fountain of Life; if Hungry, you ſhall eat there of the Celeſtial food of Angels, for there your Beloved hath his Table ſet with varieties of Dainties, for all commers, without exception, and his Goblets of Wine of all pleaſant and delightfull taſts, placed thereon.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Sect. </seg>10</label> If you be cold, come to Prayer,<note place="margin">Divine heat.</note> and ye ſhall be made warm, and comforted with the fire of divine Love: Come (I pray) to this fair Garden, and Paradiſe of pleaſure, and delight your ſelf with the Beauty, Varieties, and ſweet O<g ref="char:EOLhyphen"/>dours of virtuous Flowers, which there are ſeen and had, for they to delight and raviſh the Court of Heaven.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Sect. </seg>11</label> If you be in any affliction, or neceſſity, come hither, and de<g ref="char:EOLhyphen"/>light
+<pb n="39" facs="tcp:36764:26"/> thy ſelf in our Lord, (who<note place="margin">Delight in Chriſt</note> is always preſent) and call to him, for he will grant thee the Petitions of thy heart; Come to him, he doth invite thee, be not afraid, nor aſhamed, for thy Face ſhall not be confounded, but much joyed in His holy preſence, and comforted with his ſweet Converſation. In a word, they are happy, that give themſelves ſeriouſly to this moſt bleſſed Ex<g ref="char:EOLhyphen"/>erciſe of Prayer; but what it is, and how to uſe and practiſe it, you may ſee in the following Chapter.</p>
+         </div>
+         <div n="4" type="chapter">
+            <pb n="40" facs="tcp:36764:27"/>
+            <head>WEDNESDAYS Exerciſe.</head>
+            <head>
+               <figure>
+                  <figDesc>angel placing coal in Isaiah's mouth with tongs</figDesc>
+                  <head>Iſaiahs viſion. Iſa: 6.</head>
+                  <q>Then ſaid I, wo is me, for I am undone becauſe I am a man of unclean lips. etc: <bibl>v: 5.</bibl>
+                  </q>
+                  <q>Then flew one of the Seraphims unto me having a live cole in his hand which he had taken with the tongs from off the altar. <bibl>v. 6.</bibl>
+                  </q>
+                  <q>And he laid it upon my mouth etc: <bibl>v. 7.</bibl>
+                  </q>
+               </figure>
+            </head>
+            <pb n="41" facs="tcp:36764:27"/>
+            <head>CHAP. IV. <hi>What Mental prayer is, and the parts thereof.</hi>
+            </head>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Sect. </seg>1</label> 
+               <seg rend="decorInit">M</seg>Ental prayer as I take<note place="margin">Mental prayer explain<g ref="char:EOLhyphen"/>ed.</note> it, is a familiar reve<g ref="char:EOLhyphen"/>rential Colloquy, Con<g ref="char:EOLhyphen"/>ference, or humble diſ<g ref="char:EOLhyphen"/>courſe of the Soul with God, not by outward words, but in<g ref="char:EOLhyphen"/>wardly in our mind, declaring our neceſſities and wants, and craving ſuch things as we ſtand in need off; this Definition of Prayer, includes and ſuppo<g ref="char:EOLhyphen"/>ſeth the other, which is an Elevation or Application of the
+<pb n="42" facs="tcp:36764:28"/> mind to God: For I muſt have a Man preſent, before I can ſpeak to him; even ſo, I muſt have God preſent, by the Elevation or Ap<g ref="char:EOLhyphen"/>plication<note place="margin">Eleva<g ref="char:EOLhyphen"/>tion of the mind</note> of the mind to him, before I can diſcourſe, or ſpeak with him. But you may inquire, how you may have God preſent; I ſay, his preſence is framed by his Underſtanding, as you ſhall think fit, or moſt convenient for your purpoſe: As our Saviour being a Child, ſhaking with cold in the Manger; or, as a Man praying in the Garden, ſweating with water and blood, or in any other form or manner, that he Lived on Earth, is glorious in Heaven, or in the moſt bleſſed Sacrament, where he is God and Man; or by Faith, ſuppoſing him to be within, and without you,
+<pb n="43" facs="tcp:36764:28"/> as truly he is, according to his Divinity, which is every where in all things, and in the moſt in<g ref="char:EOLhyphen"/>ward ſubſtance of your Soul, and ſecret of your Heart: Alſo when you are diſ-heartned, or not well able to keep his preſence in your mind, you may Pray inwardly in your mind.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Sect. </seg>2</label> To the end therefore, that you may proceed orderly, and not confuſedly in this Prayer; ob<g ref="char:EOLhyphen"/>ſerve the method or manner here<note place="margin">Method of mental prayer.</note> ſet down, by which you may diſpoſe your ſelf with due reſpect, to appear before, and ſpeak with ſo High a Majeſty, and ſpend the whole time of Prayer with eaſe and profit: This doth conſiſt in the uſe of the parts in order.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Sect. </seg>3</label> The parts of Prayer are five;<note place="margin">The parts of prayer.</note> to wit Preparations, Meditation,
+<pb n="44" facs="tcp:36764:29"/> Thankſgiving, Oblation and Pe<g ref="char:EOLhyphen"/>tition, every part of theſe hath its own Office, and is of great importance to be well underſtood and obſerved.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Sect. </seg>4</label> Firſt then, Preparation hath two parts, the firſt removes all outward Impediments, as to ex<g ref="char:EOLhyphen"/>pel out of your mind, the me<g ref="char:EOLhyphen"/>mory of ſecular affairs, vain and idle thoughts, and ſuch as are not of God, or tending to piety and devotion; the other part pro<g ref="char:EOLhyphen"/>cures an Introverſion, and Recol<g ref="char:EOLhyphen"/>lection of the powers of the Senſes, now free from the firſt, worldly and vain Objects, that all being at reſt, the Soul may the more ſeriouſly and attentively apply her ſelf to her Negotiation with God, with whom ſhe intends to treat of as high matters, as the
+<pb n="45" facs="tcp:36764:29"/> buſineſs of her Salvation is, which requires a carefull and diligent application without Deſtracti<g ref="char:EOLhyphen"/>ons.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Sect. </seg>5</label> For a Man that hath many im<g ref="char:EOLhyphen"/>ployments, knowing that at a certain hour he is appointed to<note place="margin">For au<g ref="char:EOLhyphen"/>dience with God.</note> have Audience of his Prince or King, (which he much deſired) about affairs of great conſe<g ref="char:EOLhyphen"/>quence, will ſomewhat before rid himſelf of all other Imployments, ſo to diſpoſe himſelf without trouble; for that hour of Au<g ref="char:EOLhyphen"/>dience, it is not enough that he rid himſelf of thoſe occaſions, if he did not recollect to himſelf carefully to conſider what he is to do, and what to ſay unto the King, this is very plain and rea<g ref="char:EOLhyphen"/>ſonable; he therefore, having ſet aſide all occaſions, he retires him<g ref="char:EOLhyphen"/>ſelf
+<pb n="46" facs="tcp:36764:30"/> to his Cloſet, giving dire<g ref="char:EOLhyphen"/>ctions to his Servants not to let any come at him, leaſt they di<g ref="char:EOLhyphen"/>ſturb him; then he there appli<g ref="char:EOLhyphen"/>eth himſelf ſeriouſly, to conſider the Greatneſs and Majeſty of the Perſon he is to ſpeak with, the manner how to behave himſelf, and ſalute the King, and the mat<g ref="char:EOLhyphen"/>ter he is to ſpeak off to him; in this the mind is totally applied in Recollection.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Sect. </seg>6</label> In like manner, the hour of Prayer, is the hour appointed for you to get Audience, and ſpeak with your King, the great King of Kings, and Lord of all things; a quarter of an hour, or more<note place="margin">
+                  <gap reason="illegible" resp="#MURP" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>our <gap reason="illegible" resp="#MURP" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>er.</note> before that time, you muſt en<g ref="char:EOLhyphen"/>deavour to put all Diſtractions and idle Cogitations (as is ſaid) of what kind ſoever out of your
+<pb n="47" facs="tcp:36764:30"/> mind, for with thoſe you are often too much imployed and buſied; but ſhun company, re<g ref="char:EOLhyphen"/>tire your ſelf to your Chamber, and read pious and godly Books, which are great helps.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Sect. </seg>7</label> Then enter into the Cloſet of your Heart, with all your power and ſenſes (as is ſaid) and there conſider the Dignity of the Per<g ref="char:EOLhyphen"/>ſon you are to ſpeak with, the<note place="margin">Conſider God's dignity.</note> manner how, and the matter you muſt ſpeak of: As thus, I am to have Audience, and ſpeak not with a worldly Man, but with the true King, and Creator of Heaven and Earth, that great God Om<g ref="char:EOLhyphen"/>nipotent, who giveth Beeing and Life to all Creatures, in whoſe preſence the Angels, Cherubims and Seraphims, and all the Cele<g ref="char:EOLhyphen"/>ſtial powers do tremble and
+<pb n="48" facs="tcp:36764:31"/> ſhake; if then to worldly Kings, there muſt be ſo many Ceremo<g ref="char:EOLhyphen"/>nies, Bowings, and Kneelings uſed before a Man can ſpeak to them, as we daily ſee: What muſt be done, and what ought I to do, going to ſpeak with my God, the King of ſo great Power, Dignity and Majeſty, attended moſt Glo<g ref="char:EOLhyphen"/>riouſly with many Quires of E<g ref="char:EOLhyphen"/>vangelical Spirits, whoſe Eyes will be altogether upon me, ob<g ref="char:EOLhyphen"/>ſerving what paſſeth? Doubtleſs then I muſt come before him with great humility, reverence, and reſpect, and ſo behave my ſelf, that I may do nothing diſpleaſing to his Divine Majeſty.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Sect. </seg>8</label> Then the Matter you are to diſcourſe of, being reſolved upon, at the hour and place appointed, Kneeling with great reverence, do
+<pb n="49" facs="tcp:36764:31"/> then feelingly Pray to that Great God, in this, or the like manner:<note place="margin">Manner of pray<g ref="char:EOLhyphen"/>ing.</note> Come, O Holy Ghoſt, and fill our hearts with faithfulneſs and zeal, and kindle them with the fire of thy Love; ſend forth thy Spirit, and they ſhall be Created, and thou ſhalt renew the face of the Earth. O what am I, or how dare I preſume to come to thy pre<g ref="char:EOLhyphen"/>ſence, my God, and King of infi<g ref="char:EOLhyphen"/>nite Majeſty and Glory; for I am nothing but Duſt and Aſhes, meat for worms, and which is worſe, a wicked Sinner, who have often offended thee, and deſerve thy wrath and indignation, rather than any favour, which makes me with fear and trembling now ap<g ref="char:EOLhyphen"/>pear before thee.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Sect. </seg>9</label> But becauſe thou art Goodneſs it ſelf, and as well the God and
+<pb n="50" facs="tcp:36764:32"/> Lord of Sinners, as Juſt (having all Power over both, and art very deſirous of the good and Salva<g ref="char:EOLhyphen"/>tion of all thy Subjects, being in<g ref="char:EOLhyphen"/>finitely mercifull, and canſt for<g ref="char:EOLhyphen"/>give more in an inſtant than I have done, or ever can commit) with an humble and ſubmiſſive heart; yea, with ſhame and con<g ref="char:EOLhyphen"/>fuſion I do come to thee, Oh moſt merciful and great God of Glory, being a grievous Sinner, yet de<g ref="char:EOLhyphen"/>ſirous to amend my Life, and never more offend thy Divine Majeſty: Wherefore, I humbly beſeech thee, not to caſt me from thy preſence, but give me Audi<g ref="char:EOLhyphen"/>ence, my dear God, and incline thine Ears, and Heart, my moſt gracious King, unto my words, and hear what I ſhall ſay, for I will not deſpair, but confide in
+<pb n="51" facs="tcp:36764:32"/> thy mercy and goodneſs; and do humbly beg of thee, to grant me thy Grace, that I may truly open my Heart, and make the cauſe of my Soul known unto thee.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Sect. </seg>10</label> Theſe, or the like words, you may uſe, and then read in ſome pious and divine Book, poſſeſſing<note place="margin">Reading.</note> your ſelf of the quality of the buſineſs by Reading.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Sect. </seg>11</label> Then will neceſſarily follow,<note place="margin">The ſe<g ref="char:EOLhyphen"/>cond part of prayer being <hi>Medita<g ref="char:EOLhyphen"/>tion.</hi>
+               </note> 
+               <hi>Meditation,</hi> by which you do conſider that Matter or Subject with all its circumſtances, and conveniences, as how it was, is, or may be for your Spiritual good, and profit; what, and how great a benefit it is to you, or you may get thereby, and what Obli<g ref="char:EOLhyphen"/>gation it doth caſt upon you: For the end, for which we Medi<g ref="char:EOLhyphen"/>tate,
+<pb n="52" facs="tcp:36764:33"/> is, to move the Will to ſome good Affection, which once had; Meditation or Diſcourſe is need<g ref="char:EOLhyphen"/>leſs, and will rather hinder than profit the Soul, which remaining in any pious Affection, doth ſpend the time very profitably.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Sect. </seg>12</label> But if you be not moved, or the Affection governeth cold, go on with your Meditation or Diſ<g ref="char:EOLhyphen"/>courſe thus; O Lord, how ſpight<g ref="char:EOLhyphen"/>fully are they, ſtriving who ſhall abuſe thee moſt, and conſider, that when they reſted a while, they begin again, as it were in your preſence, and what appro<g ref="char:EOLhyphen"/>brious, and injurious words they ſpeak unto him, laying heavy Laſhes on every ſide, and not ſo much as once to favour him, or to take compaſſion on him: The Meditation of his holy Paſſion is
+<pb n="53" facs="tcp:36764:33"/> very great, but I am ſorry that ſo few have a feeling of it, by reaſon they do not try how ſweet our Saviour is to all that through Love do come to him. Conſider, that our Saviour by his Suffering made ſatisfaction to his Heavenly Father for our ſins, and the great Torments that in Hell we were to ſuffer for them, which is a great and ſpecial benefit, that ought to move you to take compaſſion upon Him, to hate Sins, and to be very thankfull for his Love, in ſuffering for you: And conſider your great Obligation to ſerve him, ever after with more fidelity and ſincerity, procuring your Salvation with ſo great pain, meerly of his goodneſs and love, without any merit or deſert of thine.</p>
+            <pb n="54" facs="tcp:36764:34"/>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Sect. </seg>13</label> This well conſidered, and your Soul well poſſeſſed of this great Obligation; ſhe may ſay of her own feeling, bleſſed mayſt<note place="margin">Soul's own feel<g ref="char:EOLhyphen"/>ing.</note> thou be, my God, for all thy fa<g ref="char:EOLhyphen"/>vours: I do acknowledge, and confeſs this to be ſo great, that it doth oblige me for ever to thy Love and Service. Oh Jeſus! how admirable, how exceſſive great is thy Love to me, Duſt and Aſhes, the worſt of Crea<g ref="char:EOLhyphen"/>tures, the greateſt of Sinners! O Lord, thy Goodneſs is incom<g ref="char:EOLhyphen"/>prehenſible, and thy Mercy is truly far beyond all thy Works; and thus Meditations with Rea<g ref="char:EOLhyphen"/>ſon, is, to move the Will, to ac<g ref="char:EOLhyphen"/>knowledge God's benefits, and to induce it to love and grati<g ref="char:EOLhyphen"/>tude.</p>
+            <pb n="55" facs="tcp:36764:34"/>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Sect. </seg>14</label> For, if you meditate of Sin, and that thereby you offend God, who might caſt you into perpetual Torment, yet did not; what a benefit this is, to bear<note place="margin">God's forbear<g ref="char:EOLhyphen"/>ance.</note> with thee, expecting thy repen<g ref="char:EOLhyphen"/>tance and converſion? if the pains of Hell be conſidered, how often have you deſerved them, by breaking the Laws of God, yet this puniſhment was not in<g ref="char:EOLhyphen"/>flicted? then when you were in Sin, and thereby the Slave of the Divel, how many ſweet in<g ref="char:EOLhyphen"/>ſpirations, and remorſes of Con<g ref="char:EOLhyphen"/>ſcience, had you from God, which, by the benefit of his holy Sacrament brought you to Grace, and freed you from the power of Satan, which is no ſmall fa<g ref="char:EOLhyphen"/>vour? now do not many thou<g ref="char:EOLhyphen"/>ſands Rot in the filth of Sin, (and
+<pb n="56" facs="tcp:36764:35"/> Sin, (and 'tis feared) will be Eternally damned.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Sect. </seg>15</label> If you think of Death, how often you might by it have been deprived of Life, and time of Repentance, when in Sin you might have periſhed in Body and Soul for ever; which by God's goodneſs and mercy was<note place="margin">God's goodneſs.</note> prevented, though daily many others are ſuddenly Dead; and God knows in what caſe: If you conſider the Joys of Heaven, which you loſt by Sin, and ſee that it is recovered again, and purchaſed for you, with no leſs price, than the precious Blood and Death of Chriſt our Savi<g ref="char:EOLhyphen"/>our; what a high Obligation doth it caſt upon you, of ſome requital of Love? you ſee how all theſe, and what elſe you can
+<pb n="57" facs="tcp:36764:35"/> conſider in Prayer, do plainly appear, to be great benefits of Almighty God, to the knowledge and feeling, underſtanding of which, Meditation doth bring you, and conſequently to be thankfull, to love and ſerve his Divine Majeſty, with great ſin<g ref="char:EOLhyphen"/>cerity and fidelity: I have writ<g ref="char:EOLhyphen"/>ten theſe Examples, briefly to help you the better, to meditate and know what to conclude upon, out of what you do conſider.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Sect. </seg>16</label> The next part of Prayer that<note place="margin">The third part of prayer being Thanks<g ref="char:EOLhyphen"/>giving.</note> follows, is Thankſgiving; for when you perceive by what you have Meditated, that you re<g ref="char:EOLhyphen"/>ceived a benefit from God, ſtands it not with reaſon, you ſhould acknowledge the favour; but alſo give him thanks in the beſt words and expreſſions you are
+<pb n="58" facs="tcp:36764:36"/> able, or can make your thankfull mind known, which may be thus done: O Lord my God, the true lover, and moſt faithfull friend of my Soul, when, or how ſhall I be thankfull unto thee for all thy gracious favours, and gifts, and for this particular benefit beſtowed, and done unto me, poor wretch, wholly unworthy of thy Love? Oh my dear Jeſus, how ſhall I requite this thy tender affection? Oh how ſhall I ſerve thee, or wherein can I pleaſe thee? Oh how ſhall I praiſe thee, being what I am? Oh how ſhall I honour thee, my God, who haſt ſo highly expreſt thy love, and deſire of my Salvation, in this great benefit? Oh moſt loving Creator, how near and dear to thy ſweet Heart the Creature is?
+<pb n="59" facs="tcp:36764:36"/> Reſt in this, if you can, looking on him with a reverential and lo<g ref="char:EOLhyphen"/>ving Affection.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Sect. </seg>17</label> Oblation, which is the next<note place="margin">The fourth part of prayer being Oblation</note> part that followeth, conſequently conſiſting in this, that the party, who received a benefit, would in what he could, not onely in Word and Affection, as in Thankſgi<g ref="char:EOLhyphen"/>ving, but likewiſe in Work and Deed, requite with ſome Gift the love of their Benefactor or Friend; for a gratefull Mind is never content, to be thankfull in words only, but it always thinks, and conſiders in what manner, ſervice, or gift, to requite the benefits or favour done, offering to God thy good will, and af<g ref="char:EOLhyphen"/>fection, of a ſincere Heart and Soul, ever to be imployed in the ſervice of God, with a ſtedfaſt
+<pb n="60" facs="tcp:36764:37"/> purpoſe and reſolution to abhor, and mortifie what ever is diſ<g ref="char:EOLhyphen"/>pleaſing to him, not forgetting thy darling or boſome Sins, to repent in particular for them; for good reſolutions and virtuous Arts are acceptable to God.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Sect. </seg>18</label> Now follows the laſt part,<note place="margin">The fifth and laſt part of prayer being Petition.</note> which is properly called Prayer, that is, Petition, for by this we beg and ask, as being poor and needy, of that great God, rich, and powerfull King, (whom we certainly believe, both can and will grant us our deſires) to help and relieve us in our ne<g ref="char:EOLhyphen"/>ceſſities, and beſtow what we are in want of, (as thus.)</p>
+            <div type="prayer">
+               <pb n="61" facs="tcp:36764:37"/>
+               <head>A Prayer.</head>
+               <p>MY Omnipotent, and moſt bountifull Lord, moſt mer<g ref="char:EOLhyphen"/>cifull and gracious King, (whoſe hands are always open to the needy, and whoſe willingneſs to aſſiſt the diſtreſſed, is greater than their de<g ref="char:EOLhyphen"/>ſire to be relieved, and without thee we are (and can do) nothing) experience hath made me to know my own weakneſs, frailty and un<g ref="char:EOLhyphen"/>conſtancy in any good; for I often failed in performing virtuous and godly Reſolutions, formerly made for the amendment of my Life, which cauſeth me humbly to confeſs that of my ſelf, I am truly nothing, and can do no good: Therefore, my
+<pb n="62" facs="tcp:36764:38"/> God, take compaſſion on me, leave me not unto my ſelf, grant me thy holy Grace, to be conſtant in my good purpoſes, otherwiſe I ſhall ſlide away like water, whoſe ſteps are not perceived; my reſolution will fall to nothing, and I ſhall be as if I were not, having nothing whereby to ſubſiſt.</p>
+               <p>Therefore, I humbly beſeech thee, and earneſtly beg for thy good<g ref="char:EOLhyphen"/>neſs and mercy, that thou wilt com<g ref="char:EOLhyphen"/>miſerate my caſe; and as thou haſt graciouſly inſpired thoſe good pur<g ref="char:EOLhyphen"/>poſes and godly Reſolutions, (for they are from thee, and not from me) ſo thou wilt be mercifully pleaſed, to grant and give me par<g ref="char:EOLhyphen"/>ticular aſſiſtance of thy holy Grace, that I may be thereby enabled to
+<pb n="63" facs="tcp:36764:38"/> amend my Life, and through thy true Love to execute and perform, what I have now purpoſed to do for thy ſake, and principally to overcome my evil inclinations, and utterly to abandon and for<g ref="char:EOLhyphen"/>ſake this Vice of, (<hi>here name thy boſome Sins</hi>) by which I do moſt offend thy Divine Majeſty, that hereafter, all my thoughts, words and deeds, may be highly and pure<g ref="char:EOLhyphen"/>ly to thy Honour, Glory, Endleſs praiſe, and my own Souls Salva<g ref="char:EOLhyphen"/>tion.</p>
+               <closer>Amen.</closer>
+            </div>
+            <div type="part">
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Sect. </seg>20</label> If in this you find your ſelf moved to any pious Devotions, reſt ſweetly in it; then pray for the holy Church, converſion of Sinners, exterpiation of Here<g ref="char:EOLhyphen"/>ſies, your Parents, Friends, Bene<g ref="char:EOLhyphen"/>factors,
+<pb n="64" facs="tcp:36764:39"/> and other neceſſaries commended to your Prayers, or what elſe you pleaſe, which are neceſſary wants.</p>
+            </div>
+         </div>
+         <div n="5" type="chapter">
+            <pb n="65" facs="tcp:36764:39"/>
+            <head>THURSDAYS Exerciſe.</head>
+            <head>
+               <figure>
+                  <figDesc>Nebuchadnezzar observing children in the furnace</figDesc>
+                  <head>The three Children delivered. Dan. 3.</head>
+                  <q>Shadrach, Meſhach, and Abed-nego anſwered and ſaid to the King etc: <bibl>v: 16.</bibl>
+                  </q>
+                  <q>If it be ſo our God whom wee ſerve is able to deliver us from the burning fiery furnace etc: <bibl>v: 17.</bibl>
+                  </q>
+                  <q>Then was Nebuchadnezzar full of fury etc: <bibl>v. 19</bibl>
+                  </q>
+                  <q>Then the King was aſtonied, etc: <bibl>v: 24 etc:</bibl>
+                  </q>
+               </figure>
+            </head>
+            <pb n="66" facs="tcp:36764:40"/>
+            <head>CHAP. V. <hi>Profitable advices concerning the uſe of Prayer.</hi>
+            </head>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Sect. </seg>1</label> 
+               <seg rend="decorInit">F</seg>Irſt, you muſt be carefull to obſerve and keep a<note place="margin">Set hours of prayer not to be omitted.</note> certain hour for Prayer morning and evening, which you muſt never omit but one great neceſſity.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Sect. </seg>2</label> Be not diſmayed, if ſoon you cannot gain a felicity in Pray<g ref="char:EOLhyphen"/>ing; for believe it the time will quickly come, and it will not be<note place="margin">Comfort in prayer.</note> long, before you taſte the ſweet<g ref="char:EOLhyphen"/>neſs thereof; none can be per<g ref="char:EOLhyphen"/>fect the firſt Day in any Trade, time will perfect all: This makes
+<pb n="67" facs="tcp:36764:40"/> men Labour with patience in Winter, expecting the Fruit in Summer. Make no great ac<g ref="char:EOLhyphen"/>count<note place="margin">Diſtra<g ref="char:EOLhyphen"/>ctions in prayer.</note> of Diſtractions, and idle Thoughts, which many are trou<g ref="char:EOLhyphen"/>bled with in Prayer, when they are not voluntary; but do you do your endeavour to caſt them off, when you take notice of them, for your reſiſting of them will be very acceptable, though you did nothing elſe, becauſe, to have theſe Thoughts, or to go with<g ref="char:EOLhyphen"/>out them is not in our power; but when they come, to accept of, and entertain, or reſiſt and reject them, that is in our power: No man can have good Thoughts, or be without evil Thoughts, when he pleaſe, but the one comes from God, and the other from Satan, which doth uſe to mul<g ref="char:EOLhyphen"/>tiply
+<pb n="68" facs="tcp:36764:41"/> them in time of Prayer to vex us, and breed a diſguſt, that thereby we may perceive it a thing very troubleſome, and in a manner impoſſible to be acqui<g ref="char:EOLhyphen"/>red, that at laſt we ſhould omit it altogether: This is his aim, for he well knows, that by this Prayer we do daily ſerve our ſelves, more and more from him, and his Wiles, and draw neerer and neerer to God, which he can<g ref="char:EOLhyphen"/>not endure, and would hinder if he could, and believe it your time is well ſpent, though you did but put off theſe Thoughts in the time of Prayer; for in this you fight for God's cauſe.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Sect. </seg>3</label> When you find your ſelf ſo Diſtracted, that you can hardly think upon any good thing, ſup<g ref="char:EOLhyphen"/>poſe in your mind that you are
+<pb n="69" facs="tcp:36764:41"/> the cauſe thereof, therefore with profound Humility proſtrate be<g ref="char:EOLhyphen"/>fore<note place="margin">Remedy for di<g ref="char:EOLhyphen"/>ſtraction in prayer.</note> His Divine Majeſty, examine your Conſcience, and likely you may find you have committed ſome Sins, or not prepared your ſelf for Prayer, or not perform<g ref="char:EOLhyphen"/>ed your good purpoſes, or not anſwered your Holy inſpirati<g ref="char:EOLhyphen"/>ons; and if you find none of theſe, at leaſt acknowledge it to be a juſt puniſhment, for the ſins of your Life paſt, and that you are truly unworthy of any Hea<g ref="char:EOLhyphen"/>venly conſolation, or Heavenly viſitation, being ſuch, and ſo un<g ref="char:EOLhyphen"/>gratefull a Sinner, and that you are more then well dealt withall, to be admitted to his Holy pre<g ref="char:EOLhyphen"/>ſence; for this Humility doth highly pleaſe his Divine Majeſty, and doth often move him in<g ref="char:EOLhyphen"/>ſtantly
+<pb n="70" facs="tcp:36764:42"/> to give unto the humble Souls great comforts, benefits and graces.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Sect. </seg>4</label> Commonly you muſt uſe all<note place="margin">The parts of prayer to be uſed in order.</note> the parts of Prayer in order, un<g ref="char:EOLhyphen"/>till you be practiſed in them; by reaſon, in time of Aridity, when you can have no Guſt in one part, you may paſs to ano<g ref="char:EOLhyphen"/>ther, and ſo without trouble or loathſomeneſs you may ſpend the time of Prayer, if not with con<g ref="char:EOLhyphen"/>tent and comfort, yet with profit: For theſe parts of Prayer are placed before the Soul, as ſo many Diverſities of Meat, that if in one ſhe get no Guſt, ſhe may take of another, and ſo taſt<g ref="char:EOLhyphen"/>ing of each, 'tis like ſhee'l get content and ſatisfaction in ſome one of them, to pleaſe her Pallat, and ſweetly refreſh her ſelf after
+<pb n="71" facs="tcp:36764:42"/> her long Labour taken in diſ<g ref="char:EOLhyphen"/>courſing, ſeeking to find that Spiritual food; and be ſure to ſpend more time in the Affective parts, then in the Preparative or Diſpoſitive; but if in any part you are moved to ſome pious Affection, remain in it without inward words, looking on the Object, and affecting it as long as you can; be carefull that your Affection, through too much Fer<g ref="char:EOLhyphen"/>vour, doth not drown or over<g ref="char:EOLhyphen"/>come the Underſtanding; for when it is Vehement with too much ſorrow, or joy of Spirit, do not force or forward it, for that will ſtifle or choak the Spirit, but either ſweetly reſt in it, or divert your Mind on ſome pious Object; for this, as cold water caſt in a boyling pot, will aſ<g ref="char:EOLhyphen"/>ſwage
+<pb n="72" facs="tcp:36764:43"/> or qualifie that little pot of your Heart, which is ready to run over with the too great heat of the Fire of Love, which the Holy Ghoſt hath left burning in the Soul; and Experience teach<g ref="char:EOLhyphen"/>eth, that all Violence, or Force, hurteth the Body, hindreth the Soul's ſpiritual profit, and cau<g ref="char:EOLhyphen"/>ſeth her to fear, and loath to go to Prayer, by reaſon of the pain ſhe is put to in that forcing; for fain ſhe would enjoy totally what ſhe loves, and ſhe forceth her ſelf to this, which cannot in this Life be had, by all our endeavour poſſibly, for it is not in our power, but muſt come by God's holy Gift when he pleaſe.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Sect. </seg>5</label> Alſo, if you be in any great Arridity, or drineſs of Spirit, do not force your ſelf, but in
+<pb n="73" facs="tcp:36764:43"/> your Deſolation, with humility<note place="margin">Deſola<g ref="char:EOLhyphen"/>tion in prayer.</note> acknowledge your ſelf unwor<g ref="char:EOLhyphen"/>thy of any favour, by reaſon it depends of the good pleaſure of his Divine Majeſty, and is beyond our reach, to have thoſe comforts and feelings, and e<g ref="char:EOLhyphen"/>ſteem it a ſpecial favour (as in<g ref="char:EOLhyphen"/>deed it is) to be admitted to his preſence on any tearms, to treat with him concerning your Re<g ref="char:EOLhyphen"/>conciliation and Salvation, ha<g ref="char:EOLhyphen"/>ving ſo often formerly offended, and wronged him, and give him very great and hearty thanks, for this favour and benefit: This is the true way, and muſt be ob<g ref="char:EOLhyphen"/>ſerved.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Sect. </seg>6</label> If through weakneſs, frailty,<note place="margin">Sins through weakneſs</note> or negligence, you fall or fail in the performance of your good purpoſes, or commit ſome ſmall
+<pb n="74" facs="tcp:36764:44"/> Sins, or imperfections, be not impatient with your ſelf, for this afflicted many, troubleth the Mind, diſturbeth, diſmayeth, and dejecteth the Soul, makes her forſake Prayer, and keeps her from going on heartily in the Service of God; a diſcontented and troubled Mind cannot Pray well: Therefore in ſuch Occa<g ref="char:EOLhyphen"/>ſions, let not your Paſſion ſway, but with all ſubmiſſion go to his Divine Majeſty, (who is a more loving Father than a rigorous Judge) confeſs your frailty, and diſability, of which he is very ſenſible, and well knows our weakneſs, and will have us to underſtand, and acknowledge it, and that we of our ſelves can do nothing, therefore muſt place our whole truſt and confidence
+<pb n="75" facs="tcp:36764:44"/> in his Omnipotent goodneſs, who will give us the Victory over our ſelves, if we be perſevere in our holy Deſires, and his Ser<g ref="char:EOLhyphen"/>vice, and not doubt of his aſſiſt<g ref="char:EOLhyphen"/>ance and help; for he is ſo good, that ſeeing your fidelity and deſire to pleaſe him, he cannot but reward it abundantly, though he defers it for a while. Chil<g ref="char:EOLhyphen"/>dren learning to go, do get many falls, by reaſon of their weak<g ref="char:EOLhyphen"/>neſs, yet crying to the Nurſe, with her help they always riſe again; even ſo you are but a Suckling as yet, Learning to go in the way of Virtue, and per<g ref="char:EOLhyphen"/>haps you get many falls, then cry to God, your good Nurſe, and with his holy Aſſiſtance and Grace you may riſe again as often, untill at length you may
+<pb n="76" facs="tcp:36764:45"/> go without fear, or any dan<g ref="char:EOLhyphen"/>ger.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Sect. </seg>7</label> It will alſo comfort you much in all theſe Aridities, Deſola<g ref="char:EOLhyphen"/>tions and Temptations, to re<g ref="char:EOLhyphen"/>member and call to mind how<note place="margin">To take our Sa<g ref="char:EOLhyphen"/>viour's pattern.</note> our Saviour was ſorely Tempted, and had many Croſſes, inviting us to carry our Croſs and follow him; for he, who doth not carry his Croſs, and follow me, (ſaid he) is not worthy of me, that is, to be my Diſciple, or gain my love, and the favours I am wont to beſtow on my true Ser<g ref="char:EOLhyphen"/>vants: The way of the Croſs is the King's High-way to Glory, and the Croſs is the Livery of Chriſt our Saviour, by this his true Servants are known, from the Servants of Sathan, and the Lovers of the World, who for
+<pb n="77" facs="tcp:36764:45"/> human policy doth diſſemble and ſtop their Paſſion without Merit; and others will not en<g ref="char:EOLhyphen"/>dure any trouble or croſs for Virtue, or the love of God, or Human reſpect, but muſt have their Humour, though it be to fret in paſſion, and chafe them<g ref="char:EOLhyphen"/>ſelves with raging words, and revenging thoughts, to their ruin and undoing; but in the way of the Croſs, the Servants of God ever did, and ſtill do follow him to his Kingdome of endleſs Felicities.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Sect. </seg>8</label> Conſider their Lives and Deaths, that is able to encourage thee to go forward with great content, and hope to overcome all Difficulties, and to accept with patience all Croſſes and<note place="margin">Patience in affli<g ref="char:EOLhyphen"/>ctions.</note> Afflictions that ſhall occur as
+<pb n="78" facs="tcp:36764:46"/> tokens of Love ſent unto you by his Divine Majeſty; for whom he loveth he chaſtiſeth: More<g ref="char:EOLhyphen"/>over, he knows beſt what is con<g ref="char:EOLhyphen"/>venient and fitteſt for every one, and therefore he gives to ſome ſenſible Devotion, with many ſweet Tears in Prayer, becauſe they are weak Spirits, and muſt be fed with thoſe ſweet Milk ſops of Conſolation; others like Hirelings go to Prayer in expe<g ref="char:EOLhyphen"/>ctation of a reward, of ſome Com<g ref="char:EOLhyphen"/>forts and Conſolations, which now and then they felt in Prayer; and this doth forward them in the practiſe of Virtue, more than the love of Virtue.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Sect. </seg>9</label> Others for a long time have<note place="margin">Poor ſouls.</note> nothing to feed on, but the hard cruſts of Temptations, yet they go on very heartily; for they do
+<pb n="79" facs="tcp:36764:46"/> not value thoſe ſenſible Devo<g ref="char:EOLhyphen"/>tions, neither will they ſerve for Hire, but as loving Children ſerve their Heavenly Father to pleaſe him, by reaſon it is his buſineſs, and like faithfull Sub<g ref="char:EOLhyphen"/>jects ſerve their King, this is the Life of Saints; theſe we muſt imi<g ref="char:EOLhyphen"/>tate, if we deſire virtue and true perfection; theſe uſe the form of kneel in Prayer, reſiſting vain Co<g ref="char:EOLhyphen"/>gitations, and do not for want of Conſolations depart from Prayer, or go not to it, for they ſeek not their own content, but do the will of God, knowing that all theirs is to pleaſe and honour God, conforming our will to his, happen what may: They that go in the beginning this way, in the end will have Celeſtial com<g ref="char:EOLhyphen"/>forts.</p>
+            <pb n="80" facs="tcp:36764:47"/>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Sect. </seg>10</label> Laſtly, when Prayer is ended,<note place="margin">Divert not your mind by outward objects.</note> do not ſuddenly divert your Mind, by applying it to outward affairs, but in what poſture ſee you are in, reflect ſtrongly on what you did Pray, call to mind the Benefits you thought upon, the good reſolutions and pro<g ref="char:EOLhyphen"/>miſes you made, for the amend<g ref="char:EOLhyphen"/>ment of your Life, and better ſerving of God ever after; and in this you ought to be exact, be<g ref="char:EOLhyphen"/>cauſe you paſſed your word to God.</p>
+         </div>
+         <div n="6" type="chapter">
+            <pb n="81" facs="tcp:36764:47"/>
+            <head>FRIDAYS Exerciſe.</head>
+            <head>
+               <figure>
+                  <figDesc>Jonah cast upon the sea shore</figDesc>
+                  <head>Jonah is delivered from the fiſh. Jonah: <gap reason="illegible" resp="#MURP" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>.</head>
+                  <q>Then Jonah prayed unto the LORD his God out of the fiſhes belly, <bibl>v: 2: etc:</bibl>
+                  </q>
+                  <q>
+                     <p>And the LORD ſpake unto the fiſh and it, vomited out Jonah upon the dry Land</p>
+                     <p>
+                        <bibl>vers 10</bibl>
+                     </p>
+                  </q>
+               </figure>
+            </head>
+            <pb n="82" facs="tcp:36764:48"/>
+            <head>CHAP. VI. <hi>Inſtructions for thoſe that cannot Diſcourſe, and therefore in Prayer have no content.</hi>
+            </head>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Sect. </seg>1</label> 
+               <seg rend="decorInit">S</seg>Ome there are that can<g ref="char:EOLhyphen"/>not frame Similitudes,<note place="margin">Dull ca<g ref="char:EOLhyphen"/>pacities.</note> nor Reaſons to help themſelves in Prayer: Theſe when they go to Prayer, may frame ſome thought of ma<g ref="char:EOLhyphen"/>king reverence to God, in con<g ref="char:EOLhyphen"/>trition
+<pb n="83" facs="tcp:36764:48"/> for offending him, of thanks for his benefits, and love to them, and praiſing him for his goodneſs and mercy, and it will be acceptable to God, thus to paſs the time of Prayer with<g ref="char:EOLhyphen"/>out tediouſneſs; alſo it will be requiſite to have ſome devout Books to read, as helps to Piety and Devotion, reading as often as they ſee themſelves carried away with any Temptations, ſhutting the Book after ſome time Reading, and thinking upon what they have Read, that ſo they may be inwardly imploy'd, un<g ref="char:EOLhyphen"/>till God (ſeeing their diligent care) may viſit them with his Holy grace.</p>
+            <pb n="84" facs="tcp:36764:49"/>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Sect. </seg>2</label> It may alſo much prevail in<note place="margin">Read the Life of our Sa<g ref="char:EOLhyphen"/>viour.</note> Prayer, when they know not what to do to run over the Life of our Saviour, in a general manner, from his Infancy to his Death, to keep their mind im<g ref="char:EOLhyphen"/>ployed in good thoughts, and it is like that in ſome part they may have a feeling of their Sins, or of his Love, or the like good Affection; it may do well to ſay Mentally ſome devout Prayer, with great attention, conſidering the meaning of every Petition as you think of them, yet you muſt not commonly give way to your imaginations, to run upon many things, but for the moſt part me<g ref="char:EOLhyphen"/>ditate upon ſome Miſtery in Di<g ref="char:EOLhyphen"/>vinity, by reaſon the Soul is apt to
+<pb n="85" facs="tcp:36764:49"/> gain a Cuſtom thereby, and if it be an evil one, it will hardly be well ſettled or recollected, which will be a great Obſtacle to Con<g ref="char:EOLhyphen"/>templation in Prayer; for he is ſcarce worthy of thanks when he goes to Prayer, can paſs the time with any vain or pleaſing Diſcourſe, and differs little in the effect from he that goes to Prayer, with a repugnancy and loathing of it.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Sect. </seg>3</label> Our Souls muſt indeavour to<note place="margin">Conſci<g ref="char:EOLhyphen"/>ence kept pure.</note> keep purity of Conſcience, ſin<g ref="char:EOLhyphen"/>cerity of Affections, and we muſt often hear the Word, and receive the holy Sacrament fre<g ref="char:EOLhyphen"/>quently, and practiſe Acts of Virtue, as Humility, Contrition,
+<pb n="86" facs="tcp:36764:50"/> Charity, Patience, &amp;c. And in times of Barrenneſs, theſe will inflame the Soul with godly de<g ref="char:EOLhyphen"/>ſires, and at the end of Prayer leave her with content.</p>
+         </div>
+         <div n="7" type="chapter">
+            <pb n="87" facs="tcp:36764:50"/>
+            <head>SATURDAYS Exerciſe.</head>
+            <head>
+               <figure>
+                  <figDesc>Daniel among the lions</figDesc>
+                  <head>Daniel in the Lions Den. Daniel. VI.</head>
+                  <q>Then the King commanded and they brought Daniel and, caſt him into the den of Lions etc: <bibl>v. 16.</bibl>
+                  </q>
+                  <q>Then the King aroſe very early etc. <bibl>v. 19.</bibl>
+                  </q>
+                  <q>And when he came to the den he crye'd etc: <bibl>v. 20.</bibl>
+                  </q>
+                  <q>Then ſaid Daniel etc. <bibl>v: 21:</bibl> My God hath ſent his angel and hath ſhut the Lions mouthes etc: <bibl>v. 22</bibl>
+                  </q>
+               </figure>
+            </head>
+            <pb n="88" facs="tcp:36764:51"/>
+            <head>CHAP. VII. <hi>Of the proficient way in Prayer.</hi>
+            </head>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Sect. </seg>1</label> 
+               <seg rend="decorInit">H</seg>Ere the Soul is to be<note place="margin">The ſoul must under<g ref="char:EOLhyphen"/>ſtand what virtue is.</note> made underſtand what Virtue is, and how to bring it and preſerve it, untill it come to perfection; you muſt obſerve, that ſome do <gap reason="illegible" resp="#MURP" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#MURP" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>ake notice what it is to go forward in due Order, in the way of Virtue and perfection; but
+<pb n="89" facs="tcp:36764:51"/> before they well know themſelves, or what Mortification is, or how they ought to go in the Exerciſes of proficient Prayer, their Paſ<g ref="char:EOLhyphen"/>ſions being unmortified, their Senſes not heeded, or well go<g ref="char:EOLhyphen"/>verned, and conſequently if they uſe Prayer many years, they gain ſmall profit, and little virtue by it.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Sect. </seg>2</label> Therefore you muſt not aſcend<note place="margin">Purged from the affecti<g ref="char:EOLhyphen"/>ons of the things of this world.</note> to proficient Prayer, untill you are well and ſufficiently purged from all the affections to the things of this World, and ſo mortified in your Senſes and Paſſions, till you come to the knowledge of your own Inſuffi<g ref="char:EOLhyphen"/>ciency, Vileneſs and Ignorance.</p>
+            <pb n="90" facs="tcp:36764:52"/>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Sect. </seg>3</label> But the Soul having got over<note place="margin">The ſouls ſtep for<g ref="char:EOLhyphen"/>ward.</note> the Hedge from the foul miry way wherein ſhe was, to a dainty Plain, from the Winters night to a Summers day, and that the tempeſtuous operations of the Paſſions are gone, the under<g ref="char:EOLhyphen"/>ſtanding in his Native light doth begin to appear more ſeriouſly to work according to reaſon, and the Sun of Juſtice caſting his Rays upon him, by which he is enlightned, that he plainly ſees, the great miſery the Soul was in, and that only by the Exerciſe of Virtue ſhe can be preſerved from returning thither again; then by degrees this Soul encreaſing in purity, and gaineth a facility in Prayer.</p>
+            <pb n="91" facs="tcp:36764:52"/>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Sect. </seg>4</label> By this the Light is greater,<note place="margin">The ſouls having the plain under<g ref="char:EOLhyphen"/>ſtanding.</note> and the Soul more plainly under<g ref="char:EOLhyphen"/>ſtands thoſe things of God, which may induce her to love him in a high degree, and maketh her heart tender, and inflames it with a great deſire to imitate the Life of our Saviour, and to reprint them deeply in the Soul; for this is the true pattern of all perfe<g ref="char:EOLhyphen"/>ction, it is not in the underſtand<g ref="char:EOLhyphen"/>ing of any to conceive, nor in the Eloquence of any Tongue to expreſs, the comfort the Soul, that is come thus far, hath in Prayer; yet it is not ſufficient to have renounced all things in the World, and uſe Retirements out<g ref="char:EOLhyphen"/>ward and inward, and great Au<g ref="char:EOLhyphen"/>ſterity to the Body, but you muſt
+<pb n="92" facs="tcp:36764:53"/> examine and mortifie your Af<g ref="char:EOLhyphen"/>fections, even in Spiritual things, and withdraw your ſelves from their Senſual delights.</p>
+         </div>
+         <trailer>The End.</trailer>
+      </body>
+      <back>
+         <div type="table_of_contents">
+            <pb n="93" facs="tcp:36764:53"/>
+            <head>A Table.</head>
+            <list>
+               <item>CHAP. I. <hi>OF prayer.</hi> pag. 2.</item>
+               <item>CHAP. II. <hi>Of profitable Praying.</hi> p. 22.</item>
+               <item>CHAP. III. <hi>Of the dignity and profit of Mental prayer.</hi> p. 30.</item>
+               <pb n="94" facs="tcp:36764:54"/>
+               <item>CHAP. IV. <hi>What Mental prayer is, and the parts thereof.</hi> p. 41.</item>
+               <item>CHAP. V. <hi>Profitable advices concerning the uſe of Prayer.</hi> p. 66.</item>
+               <item>CHAP. VI. <hi>Inſtructions for thoſe that cannot Diſcourſe, and therefore in Prayer have no content.</hi> p. 82.</item>
+               <item>CHAP. VII. <hi>Of the proficient way in Prayer.</hi> p. 87.</item>
+            </list>
+            <trailer>FINIS.</trailer>
+         </div>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:36764:54"/>
+            <head>Books newly Printed for <hi>William Crooke</hi> nigh <hi>Eſſex-houſe</hi> in the <hi>Strand.</hi>
+            </head>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> AN Elegy on the late fire and ruins of <hi>London,</hi> by <hi>E. Settle,</hi> Oxon.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> 
+               <hi>Praxis Curiae, Admiralitatis Angliae Auctore, Fran. Clerke.</hi> A Book of great uſe to all perſons converſant in Civil and Eccleſia<g ref="char:EOLhyphen"/>ſtical Courts, <hi>&amp;c.</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="3"/> 
+               <hi>De Principiis &amp; Ratiorinatione Geometrarum ubi oſtenditur incer<g ref="char:EOLhyphen"/>titudiuem falſitutemque non mino<g ref="char:EOLhyphen"/>rem in eſſe ſcriptis eorum, quam ſcriptis Phyſicorum &amp; Ethirorum, contra Faſtum profeſſorum Geome<g ref="char:EOLhyphen"/>triae Auctore,</hi> Tho. Hobbes.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
